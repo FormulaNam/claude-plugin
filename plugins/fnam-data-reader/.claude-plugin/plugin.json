@@ -8,8 +8,5 @@
   },
   "license": "MIT",
   "homepage": "https://sites.google.com/view/gpt-plugin-main/%ED%99%88",
-  "icon": "./assets/formulanam-logo.png",
-  "supportUrl": "https://sites.google.com/view/gpt-plugin-sup/%ED%99%88",
-  "privacyPolicyUrl": "https://sites.google.com/view/gptplugin-policy/%ED%99%88",
-  "termsOfServiceUrl": "https://sites.google.com/view/gpt-plugin-termsofuse/%ED%99%88"
+  "icon": "./assets/formulanam-logo.png"
 }
