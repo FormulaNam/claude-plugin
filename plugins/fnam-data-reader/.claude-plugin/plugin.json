@@ -8,5 +8,8 @@
   },
   "license": "MIT",
   "homepage": "https://sites.google.com/view/gpt-plugin-main/%ED%99%88",
+  "repository": "https://github.com/FormulaNam/claude-plugin",
+  "documentationUrl": "https://github.com/FormulaNam/claude-plugin/tree/main/plugins/fnam-data-reader#readme",
+  "keywords": ["audio", "acoustics", "measurement", "fft", "spectrogram", "frequency-response", "fir", "sound-level", "fnam"],
   "icon": "./assets/formulanam-logo.png"
 }
