@@ -85,7 +85,6 @@ output location.
 ## License
 
 The Python code and skill documents are released under the MIT License; see
-`LICENSE`. The FormulaNam and FNam names, the FormulaNam logo and
-`assets/formulanam-logo.png` are not covered by the MIT License and are included
-only to identify this official plugin. Third-party libraries such as NumPy and
-Matplotlib are not bundled and remain under their own licenses.
+`LICENSE`. The FormulaNam and FNam names and the FormulaNam logo are not covered
+by the MIT License. Third-party libraries such as NumPy and Matplotlib are not
+bundled and remain under their own licenses.
