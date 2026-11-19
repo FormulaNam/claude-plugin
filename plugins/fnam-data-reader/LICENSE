@@ -27,12 +27,10 @@ The MIT License above applies to the Python source code under skills/*/scripts/
 and to the skill documents (skills/*/SKILL.md) in this package, and to this
 package's README and manifest.
 
-Trademarks and logo: The names "FormulaNam" and "FNam", the FormulaNam logo,
-and the file assets/formulanam-logo.png are NOT licensed under the MIT License.
-They are included only to identify this official plugin. No right to use them
-is granted, except as needed to display this unmodified plugin. Forks and
-derivative works must remove the logo and must not present themselves as an
-official FormulaNam product.
+Trademarks: The names "FormulaNam" and "FNam" and the FormulaNam logo are NOT
+licensed under the MIT License. No right to use them is granted. Forks and
+derivative works must not present themselves as an official FormulaNam
+product.
 
 Third-party software: This package does not bundle third-party libraries.
 Python, NumPy and Matplotlib, when installed and used, remain under their own
